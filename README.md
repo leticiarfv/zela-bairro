@@ -9,11 +9,11 @@ MVP Mobile em Flutter · Disciplina: Desenvolvimento Cross-Platform
 
 | Nome completo | RM |
 |---|---|
-| Leticia Rocha Fernandes Vitalino | RM552481 |
+| Leticia Rocha Fernandes Vitalino | 552481 |
 
 ---
 
-## 2. Sobre o projeto (CitizenTech e ODS)
+## 2. Sobre o projeto
 
 ### O problema real
 Buracos na via, postes apagados, lixo descartado irregularmente, ruas que alagam e calçadas sem acessibilidade afetam a segurança e a saúde de milhões de pessoas todos os dias. O cidadão muitas vezes não sabe como reportar, e o poder público não tem uma visão clara de **onde** e **o que** priorizar.
