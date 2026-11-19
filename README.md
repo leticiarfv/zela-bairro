@@ -1,7 +1,7 @@
 # ZelaBairro 🏙️
 
 **Desafio FIAP CitizenTech 2026.2: "A próxima grande inovação pode estar na sua rua"**
-MVP Mobile em Flutter · Disciplina: Desenvolvimento Cross-Platform com Flutter · 3º ano de Sistemas de Informação
+MVP Mobile em Flutter · Disciplina: Desenvolvimento Cross-Platform com Flutter
 
 ---
 
